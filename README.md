@@ -3,7 +3,7 @@
 ## I'm a Student, Developper!
 
 - 🌱 I’m currently learning Python and Java
-- 🥅 2021 Goals: Mastery of python
+- 🥅 2021 Goals: Mastery ofPpython
 - ⚡ Fun fact: I love pets
 
 
