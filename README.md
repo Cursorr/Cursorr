@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developper!
 
-- 🌱 I’m currently learning Python and Java
-- 🥅 2021 Goals: Mastery of Python and Java
+- 🌱 I’m a Python, Java, C++ and web developer
+- 🥅 2021 Goals: Mastery of Java
 - ⚡ Fun fact: I love pets
 
 
