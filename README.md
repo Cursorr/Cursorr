@@ -14,4 +14,5 @@
 
 ## 🌟 Activity stats
 
-![Cursor's github stats](https://github-readme-stats.vercel.app/api?username=Cursorr&show_icons=true) 
+![Cursor's github stats](https://github-readme-stats.vercel.app/api?username=Cursorr&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cursorr&layout=compact)
+
