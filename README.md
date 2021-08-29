@@ -1,8 +1,8 @@
 ### Hi there, I'm Cursor 👋
 
-## I'm a Student, Developper!
+## I'm a Student, Developer!
 
-- 🌱 I’m a Python, Java, C++ and web developer
+- 🌱 I’m a Python, Java, C++ and Web developer !
 - 🥅 2021 Goals: Mastery of Java
 - ⚡ Fun fact: I love pets
 
