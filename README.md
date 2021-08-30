@@ -14,5 +14,6 @@
 
 ## 🌟 Activity stats
 
-![Cursor's github stats](https://github-readme-stats.vercel.app/api?username=Cursorr&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cursorr&layout=compact)
+<img alt="Cursor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cursorr&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Cursor's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursorr&show_icons=true&hide_border=true&theme=tokyonight" />
 
