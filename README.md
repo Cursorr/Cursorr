@@ -31,6 +31,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CursorDev)
 
 #### **» *Stats***
-<img alt="Cursor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cursorr&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="Cursor's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursorr&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Cursor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cursorr&show_icons=true&hide_border=true&theme=tokyonight" />
 
