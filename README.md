@@ -3,7 +3,7 @@
 *I am a young student, self-taught developer. I learned everything on my own using several platforms including the big YouTube. I love maths and computers, with the aim of being a computer enginner in the future to change the world ! You will find in my GitHub some cool projects i've made with different programming langages and technologies !*
 
 
-### **» *Languages***<br>
+### **» Languages**<br>
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -20,18 +20,18 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-#### **» *Development tools***<br>
+### **» Development tools**<br>
 
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![INTELLIJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-#### **» *Contact me***<br>
+### **» Contact me**<br>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/756592067899031645)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.cursor@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CursorDev)
 
-#### **» *Stats***
+### **» Stats**
 <img alt="Cursor's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursorr&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="Cursor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cursorr&show_icons=true&hide_border=true&theme=tokyonight" />
 
