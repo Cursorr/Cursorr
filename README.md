@@ -3,7 +3,7 @@
 *I am a young student, self-taught developer. I learned everything on my own using several platforms including the big YouTube. I love maths and computers, with the aim of being a computer enginner in the future to change the world ! You will find in my GitHub some cool projects i've made with different programming langages and technologies !*
 
 
-### **» Languages**<br>
+### **» Programming Languages**<br>
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
