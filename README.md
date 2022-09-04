@@ -1,6 +1,6 @@
 ### Hi there, I'm Omar 👋
 
-*I am a young student, self-taught developer. I learned everything on my own using several platforms including the big YouTube. I love maths and computers, with the aim of being a computer enginner in the future to change the world ! You will find in my GitHub some cool projects i've made with different programming langages and technologies !*
+*I'm a young student and self-taught developer. I learned everything on my own using several platforms including the big YouTube. I love maths and computers, with the aim of being a computer engineer in the future ! You will find in my GitHub some cool projects i've made with different programming langages and technologies !*
 
 
 ### **» Programming Languages**<br>
